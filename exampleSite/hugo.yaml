@@ -15,11 +15,11 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Armsuki
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: life
     zh-cn:
         languageName: 中文
         title: 演示站点
