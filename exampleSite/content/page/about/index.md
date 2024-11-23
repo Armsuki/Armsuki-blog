@@ -1,7 +1,7 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: Yue
+description: Robotics Reasearcher
+date: '2024-11-23'
 aliases:
   - about-us
   - about-hugo
