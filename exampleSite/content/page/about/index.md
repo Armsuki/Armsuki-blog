@@ -1,5 +1,5 @@
 ---
-title: Yue
+title: About
 description: Robotics Reasearcher
 date: '2024-11-23'
 aliases:
