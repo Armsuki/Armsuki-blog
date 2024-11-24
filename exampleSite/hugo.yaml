@@ -15,7 +15,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Armsuki
+        title:   Armsuki
         weight: 1
         params:
             sidebar:
